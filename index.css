@@ -9,3 +9,39 @@ nav{
     justify-content: space-between;
     padding-top: 15px;
 }
+.head{
+    display: flex;
+    justify-content:space-evenly;
+    
+}
+.head a{
+    text-decoration: none;
+    display: inline;
+    padding: 5px 50px 0px 50px;
+}
+.head button{
+    border: none;
+    background-color: blue;
+    margin-top: 10px;
+    font-size: 15px;
+    color: white;
+    line-height: 30px;
+    margin-right: 20px;
+}
+.one{
+    background-image: url("Images/bg.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 600px;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+}
+.one h1{
+    padding-top: 50px;
+
+}
+.one p{
+    padding-top: 20px;
+    line-height: 30px;
+}

@@ -1,0 +1,11 @@
+*{
+    margin: 0%;
+}
+.start{
+    margin-left: 20px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 15px;
+}

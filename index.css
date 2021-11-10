@@ -143,3 +143,48 @@ margin: 50px 70px;
         height: 600px;
         justify-content: space-around;
     }
+     .signin{
+        background-color: white;
+        border: white;
+        margin: 50px 50px;
+        width: 600px;
+        height: 500px;
+        border-radius: 2px;
+    }
+    .signin h5{
+       margin: 50px 0px 50px 60px;
+       font-size: 20px;
+    }
+    .send{
+        border: none;
+        color: white;
+        background-color: blue;
+        margin-top: 100px;
+        margin-left: 100PX;
+        padding: 10px;
+        width: 200px;
+    }
+    form{
+        margin: 0px 50px 50px 50px;
+       
+    }
+    table tr td{
+        border: 1px solid black;
+       width: 200px;
+    }
+   .contacts{
+       margin: 50px 50px;
+       color: white;
+   }
+   .contacts h4{
+       font-size: 20px;
+       font-weight: bold;
+   }
+   .contacts h5{
+       margin-top: 30px;
+       font-size: 15px;
+       font-weight: bold;
+   }
+   .contacts p{
+       margin-top: 10px;
+   }

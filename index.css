@@ -188,3 +188,12 @@ margin: 50px 70px;
    .contacts p{
        margin-top: 10px;
    }
+   footer{
+    background-color: rgb(29, 11, 58);
+    text-align: center;
+    color: white;
+    height: 100px;
+}
+footer p{
+  padding-top: 30px; 
+}
